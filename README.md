@@ -1,4 +1,4 @@
 ggg4000.github.io
 =================
 
-<a href="http://ggg4000.github.io/"> ggg4000home page</a>
+<a href="http://ggg4000.github.io/" target="_blank">home page</a>
